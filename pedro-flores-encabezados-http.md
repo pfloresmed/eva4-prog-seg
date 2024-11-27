@@ -1,21 +1,21 @@
 1. ¿Qué son los Encabezados HTTP? 
-Respuesta:
+Respuesta: Son datos adicionales que se envian en las solicitudes y respuestas HTTP para proporcionar informacion sobre la transaccion
 
 2. ¿A qué se asemejan los encabezados HTTP en la analogía de la "casa"? 
 
-Respuesta:
+Respuesta: Se asemejan a una etiqueta de alfo, la cual lleva los datos del remitente destinatario y como se debe manejar el contenido          
 
 3. ¿Qué tipo de información se envía a los servidores web cuando se realiza un proceso de registro o inicio de sesión? 
 
-Respuesta:
+Respuesta: A los servidores web cuando se registran se envian datos como el nombre de usuario,contraseña y a veces informacion sobre el dispositivo o navegador.
 
 4. ¿Qué son los "Response Headers"? 
 
-Respuesta:
+Respuesta: Consisten en ser encabeamso enviados por el servidor en respuesta a ua solicitud HTTP, son informacion sobre el estao, tipo de contenido entre otros.
 
 5. ¿Cuál es la importancia de los "Response Headers"? 
 
-Respuesta:
+Respuesta: se enccargan de ayudar al cliente a entender como manejar la respuesta, tal como la codificacion, seguridad o caché.
 
 6. ¿Qué es la "pestaña Network" en las herramientas para desarrolladores?
 

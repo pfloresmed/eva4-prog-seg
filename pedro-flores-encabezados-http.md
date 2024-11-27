@@ -1,4 +1,5 @@
 1. ¿Qué son los Encabezados HTTP? 
+
 Respuesta: Son datos adicionales que se envian en las solicitudes y respuestas HTTP para proporcionar informacion sobre la transaccion
 
 2. ¿A qué se asemejan los encabezados HTTP en la analogía de la "casa"? 
@@ -19,7 +20,7 @@ Respuesta: se enccargan de ayudar al cliente a entender como manejar la respuest
 
 6. ¿Qué es la "pestaña Network" en las herramientas para desarrolladores?
 
-Respuesta:
+Respuesta: La pestaña network es la que donde se puede inspeccionar las solicitudes y respuestas HTTP realizadas por una pagina web. 
 
 7. ¿Cuál es el principal objetivo de los Encabezados HTTP en términos de seguridad?
 

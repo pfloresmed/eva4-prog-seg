@@ -48,7 +48,7 @@ Respuesta: las cookies son pequeños archivos que se encargan de almacenar infor
 
 13. ¿Cuáles son los 2 tipos de Encabezados HTTP se utilizan para la protección de contenido web? 
 
-Respuesta: 
+Respuesta: x-content-type-options, content-security-policy
 
 14. ¿Qué función cumple el Content Security Policy (CSP)? 
 

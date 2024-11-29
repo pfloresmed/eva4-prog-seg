@@ -24,76 +24,76 @@ Respuesta: La pestaña network es la que donde se puede inspeccionar las solicit
 
 7. ¿Cuál es el principal objetivo de los Encabezados HTTP en términos de seguridad?
 
-Respuesta:
+Respuesta: El objetivo principal consiste en proteger la comunicacion entre el cliente y el servidor, asegurando la confidencialidad, integridad y autenticidad de datos.
 
 8. ¿Qué tipos de Encabezados HTTP existen para proteger la información? 
 
-Respuesta:
+Respuesta: los tipos de encabezados HTTP son, Strict- transport-security, x-content-type-options, x-xss-protection, content-security-policy
 
 9. ¿Qué es la encriptación y cómo se relaciona con los Encabezados HTTP en la seguridad web? 
 
-Respuesta:
+Respuesta: La encriptacion se encarga de cifrar datos su transmision. los encabezados como strict- transport- security aseguran que las comunicaciones sean solo a traves de https que usa encriptacion.
 
 10. ¿Cuál es el nombre de la página web oficial de Mozilla con documentación sobre Encabezados HTTP? 
 
-Respuesta:
+Respuesta:mdn web docs_
 
 11. ¿Cuáles son algunos ejemplos de Encabezados HTTP utilizados para la autenticación? 
 
-Respuesta:
+Respuesta: Authorization, www-authenticate
 
 12. ¿Qué son las cookies y qué función cumplen? 
 
-Respuesta:
+Respuesta: las cookies son pequeños archivos que se encargan de almacenar informacion en el navegadores tales como sesiones de usuario, peferencias, autentificacion.
 
 13. ¿Cuáles son los 2 tipos de Encabezados HTTP se utilizan para la protección de contenido web? 
 
-Respuesta:
+Respuesta: 
 
 14. ¿Qué función cumple el Content Security Policy (CSP)? 
 
-Respuesta:
+Respuesta: Definir una politica de seguridad que se encarga de prevenir ataques como XSS, controlando los origenes desde los cuales se pueden cargar recursos en la pagina.
 
 15. ¿Qué es el "XSS" y cómo se relaciona con los Encabezados HTTP? 
 
-Respuesta:
+Respuesta: Consiste en un ataque que inyecta scripts maliciosos en paginas web, los encabezamos como x-xss-protection ayudan a mitigar estos ataques.
 
 16. (*) ¿Qué encabezado ayuda al rendimiento de una página web? 
 
-Respuesta:
+Respuesta:  el encabezado que ayuda al rendimiento de una pagina web es cache-control
 
 17. ¿Cómo se identifican los Encabezados HTTP antes del 2012? 
 
-Respuesta:
+Respuesta: desde el 2012 la documentacion se encargo de enfocarse en mas medidas de seguridad desde ese periodo.
 
 18. (*) ¿Qué es SEO en el contexto de la web? 
 
-Respuesta:
+Respuesta: Serching engine optimization, conjunto de practicas que mejoran la visbilidad de un sitio web en motores de busqueda.
 
 19. ¿Cuál es el atajo del teclado (shortcut) para acceder al inspector de elementos en el navegador?
 
-Respuesta:
+Respuesta: ctrl + shift + I
 
 20. ¿Qué significa "HTTP" en las siglas de Encabezados HTTP?
 
-Respuesta:
+Respuesta: protocolo de transferencia de hipertexto
 
 21. (*) ¿Cuál es la diferencia entre los encabezados HTTP y los encabezados HTTPS? 
 
-Respuesta:
+Respuesta: HTTP es una versión no segura, mientras que HTTPS incluye una encriptacion que protege la comunicacion.
 
 22. (*) ¿Cuáles son los tipos de métodos HTTP qué más se utilizan? (mencione al menos 5) 
 
-Respuesta:
+Respuesta: Los metodos que mas se utilizan son GET-POST-PUT-DELETE-PATCH
 
 23. (*) ¿Qué permiten hacer las herramientas de desarrollo del navegador con respecto a los encabezados HTTP? 
 
-Respuesta:
+Respuesta: Ver, modificar y depurar los encabezados HTTP en las solicitudes y respuestas entre el cliente y el servidor.
 
 24. (*) ¿Qué es un "Proxy" y cómo se relaciona con los Encabezados HTTP? 
 
-Respuesta:
+Respuesta: Un proxy es un servidor intermediario que maneja las solicitudes entre el cliente y el servidor, pudiendo modificar los encabezados HTTP para redirigir o filtrar contenido.
 
 25. (*) ¿Cómo se pueden usar los Encabezados HTTP para optimizar el SEO de un sitio web? 
 
-Respuesta:
+Respuesta:Los encabezados se pueden utilizar para almacenar en caché respuestas y mejorar la velocidad de carga.
